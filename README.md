@@ -40,7 +40,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 #
 
 ### 📄 Projects
-<img alt="yelp" width="400px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Yelp_Logo.svg" />   
+<img alt="yelp" width="400px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Yelp_Logo.svg" /><img alt="dashboard" width="400px" src="https://imgur.com/xdddL5J" />     
 <b>Capstone Yelp Data Analysis Data</b><br> 
 Data analysis project utilizing a Yelp dataset consisting of six million rows. The project focused on exploring restaurant businesses and making recommendations for opening a new establishment. Using sentiment analysis techniques to evaluate customer feedback and developed a predictive model to classify feedback as either negative, positive, or neutral. This project not only demonstrated my proficiency in data analysis and machine learning, but also highlighted my ability to derive valuable insights from large datasets to inform business decisions. Leveraged my skills in Python for data manipulation and analysis, Excel for organizing and preprocessing data, and Tableau for creating impactful visualizations to effectively communicate my findings. 
 
