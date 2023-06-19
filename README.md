@@ -40,7 +40,10 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 #
 
 ### 📄 Projects
-<img alt="yelp" width="400px" src="https://i.imgur.com/tEcXR3m.png" /><img alt="dashboard" width="400px" src="https://i.imgur.com/xdddL5J.png" />     
+<img alt="wind" width="400px" src="https://imgur.com/4e1802de-f52f-43e8-bfdd-b0aedf6a985f" /><img alt="dashboard" width="400px" src="https://i.imgur.com/xdddL5J.png" />     
 <b>Capstone Yelp Data Analysis Data</b><br> 
-Data analysis project utilizing a Yelp dataset consisting of six million rows. The project focused on exploring restaurant businesses and making recommendations for opening a new establishment. Using sentiment analysis techniques to evaluate customer feedback and developed a predictive model to classify feedback as either negative, positive, or neutral. This project not only demonstrated my proficiency in data analysis and machine learning, but also highlighted my ability to derive valuable insights from large datasets to inform business decisions. Leveraged my skills in Python for data manipulation and analysis, Excel for organizing and preprocessing data, and Tableau for creating impactful visualizations to effectively communicate my findings. 
+Data analysis project utilizing a Yelp dataset consisting of six million rows. The project focused on exploring restaurant businesses and making recommendations for opening a new establishment. Using sentiment analysis techniques to evaluate customer feedback and developed a predictive model to classify feedback as either negative, positive, or neutral. This project not only demonstrated my proficiency in data analysis and machine learning, but also highlighted my ability to derive valuable insights from large datasets to inform business decisions. Leveraged my skills in Python for data manipulation and analysis, Excel for organizing and preprocessing data, and Tableau for creating impactful visualizations to effectively communicate my findings.<br> 
 
+<img alt="yelp" width="400px" src="https://i.imgur.com/tEcXR3m.png" /><img alt="dashboard2" width="400px" src="blob:https://imgur.com/86fd265e-bf93-4270-9a0a-0553b008c9f6" />     
+<b>Group Capstone U.S Wind Turbine Market Analysis</b><br> 
+ The data analysis project focused on the U.S. wind market. Working in groups using an agile workflow. The project involved transforming large datasets into actionable information to support key business decisions.
