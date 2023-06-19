@@ -23,7 +23,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 ---
 
 ### 🧰 Languages and Tools
-<p> 
+<pre> 
    <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img align="left" alt="Postgresql" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
    <img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
@@ -35,7 +35,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
    <img align="left" alt="Audition" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1051px-Adobe_Audition_CC_icon_%282020%29.svg.png" />
    <img align="left" alt="Avid" width="40px" style="padding-right:10px;" src="https://thefinishline.pro/wp-content/uploads/2021/01/AVID-MEDIA-COMPOSER-LOGO-1404x1404.png" />
    <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p>  
+</pre>  
 <br />
 
      
