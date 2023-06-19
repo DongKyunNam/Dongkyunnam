@@ -17,7 +17,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 ### 🧰 Languages and Tools
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+   <img src="https://skillicons.dev/icons?i=ae,git,kubernetes,docker,c,vim" />
 </p>
 
 #
