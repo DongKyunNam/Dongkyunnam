@@ -40,15 +40,17 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 #
 
 ### 📄 Projects
-<img alt="yelp" width="400px" src="https://i.imgur.com/tEcXR3m.png" /><img alt="dashboard" width="400px" src="https://i.imgur.com/xdddL5J.png" />     
 <b>Capstone Yelp Data Analysis Data</b><br> 
+<img alt="yelp" width="400px" src="https://i.imgur.com/tEcXR3m.png" /><img alt="dashboard" width="400px" src="https://i.imgur.com/xdddL5J.png" />     
+<br> 
 Data analysis project utilizing a Yelp dataset consisting of six million rows. The project focused on exploring restaurant businesses and making recommendations for opening a new establishment. Using sentiment analysis techniques to evaluate customer feedback and developed a predictive model to classify feedback as either negative, positive, or neutral. This project not only demonstrated my proficiency in data analysis and machine learning, but also highlighted my ability to derive valuable insights from large datasets to inform business decisions. Leveraged my skills in Python for data manipulation and analysis, Excel for organizing and preprocessing data, and Tableau for creating impactful visualizations to effectively communicate my findings. <br>
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
 <img alt="Tableau" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /> 
 <img alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" /> 
 <br>
-<img alt="wind" width="400px" src="https://i.imgur.com/x9ouMWz.jpg" /><img alt="dashboard2" width="400px" src="https://i.imgur.com/v9qo0fE.png" />     
 <b>Group Capstone U.S Wind Turbine Market Analysis</b><br> 
+<img alt="wind" width="400px" src="https://i.imgur.com/x9ouMWz.jpg" /><img alt="dashboard2" width="400px" src="https://i.imgur.com/v9qo0fE.png" />     
+<br> 
 Data analysis project focused on the U.S. wind market, utilising an agile workflow. The objective was to transform extensive datasets into actionable information to support crucial business decisions. I showcased proficiency in Python, Excel, and Tableau to analyse, process, and visualise the data.
 
 Using Python, I conducted data manipulation, cleansing, and advanced analytics to prepare the data for analysis. Excel was used to organise and preprocess the data for seamless integration with other tools. Utilising Tableau's visualisation capabilities, I created visually appealing and informative dashboards to present complex information in a digestible format. Working collaboratively in a team, effectively communicating, and ensuring project milestones were met. My technical expertise in Python, Excel, and Tableau played a pivotal role in transforming raw data into valuable insights for strategic decision-making. This project demonstrated my ability to work in an agile environment, employ Python, Excel, and Tableau for data analysis and visualisation, and deliver actionable insights to drive business success in the U.S. wind market.
