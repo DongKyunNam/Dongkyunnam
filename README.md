@@ -46,4 +46,9 @@ Data analysis project utilizing a Yelp dataset consisting of six million rows. T
 
 <img alt="wind" width="400px" src="https://i.imgur.com/x9ouMWz.jpg" /><img alt="dashboard2" width="400px" src="https://i.imgur.com/v9qo0fE.png" />     
 <b>Group Capstone U.S Wind Turbine Market Analysis</b><br> 
- The data analysis project focused on the U.S. wind market. Working in groups using an agile workflow. The project involved transforming large datasets into actionable information to support key business decisions.
+Data analysis project focused on the U.S. wind market, utilising an agile workflow. The objective was to transform extensive datasets into actionable information to support crucial business decisions. I showcased proficiency in Python, Excel, and Tableau to analyse, process, and visualise the data.
+
+Using Python, I conducted data manipulation, cleansing, and advanced analytics to prepare the data for analysis. Excel was used to organise and preprocess the data for seamless integration with other tools. Utilising Tableau's visualisation capabilities, I created visually appealing and informative dashboards to present complex information in a digestible format. Working collaboratively in a team, effectively communicating, and ensuring project milestones were met. My technical expertise in Python, Excel, and Tableau played a pivotal role in transforming raw data into valuable insights for strategic decision-making. This project demonstrated my ability to work in an agile environment, employ Python, Excel, and Tableau for data analysis and visualisation, and deliver actionable insights to drive business success in the U.S. wind market.
+
+
+
