@@ -16,9 +16,9 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
       
 ### 📫 Contact me
        
-   <p align="center">
-      ✉️ dongkyun.nam1@gmail.com &nbsp;
-      🌏 www.linkedin.com/in/dongkyunnam &nbsp;
+   <p align="left">
+      ✉️ dongkyun.nam1@gmail.com <br />
+      🌏 www.linkedin.com/in/dongkyunnam <br />
       📞 +61450220421 &nbsp;
    </p> 
    
