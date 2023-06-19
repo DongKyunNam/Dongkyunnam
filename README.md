@@ -41,6 +41,6 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 
 ### 📄 Projects
    
-<b>Capstone Yelp Data Analysis Data</b> 
+<b>Capstone Yelp Data Analysis Data</b><br> 
 Data analysis project utilizing a Yelp dataset consisting of six million rows. The project focused on exploring restaurant businesses and making recommendations for opening a new establishment. Using sentiment analysis techniques to evaluate customer feedback and developed a predictive model to classify feedback as either negative, positive, or neutral. This project not only demonstrated my proficiency in data analysis and machine learning, but also highlighted my ability to derive valuable insights from large datasets to inform business decisions. 
 
