@@ -39,7 +39,6 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
      
 #
 
-
 ### 📄 Projects
    
    
