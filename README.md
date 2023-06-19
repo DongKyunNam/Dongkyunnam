@@ -83,7 +83,9 @@ Through this project, I demonstrated proficiency in data analysis, database mana
 Created captivating motion graphics to serve as promotional content for client, effectively meeting their specific needs. Using my expertise in motion graphics software, I brought their ideas to life and crafted visually appealing animations that engaged their target audiences.<br>
 <b>Click below to watch</b><br>   
 <a href="https://youtu.be/C9eWM_amSF8">
-         <img alt="youtube link" title="YouTube Tofu-Purin Live2D Vtuber Debut" src="https://img.shields.io/badge/TofuPurin-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+         <img alt="youtube link" title="YouTube Tofu-Purin Live2D Vtuber Debut" src="https://img.shields.io/badge/TofuPurin-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtu.be/G1mqoX-SWp8">
+      <img alt="youtube link" title="【Tsuki Live ☽】 Generation 1" src="https://img.shields.io/badge/Tsukilive-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 <br>
    <p align="right">
    <img alt="AE" width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" />
