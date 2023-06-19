@@ -24,7 +24,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 
 ### 🧰 Languages and Tools
 <pre> 
-   <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+   <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img align="left" alt="Postgresql" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
    <img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
    <img align="left" alt="Powerbi" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" />
