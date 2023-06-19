@@ -11,6 +11,8 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
    <p align="left">
       <a href="https://www.linkedin.com/in/dongkyunnam">
          <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+      <a href="https://www.linkedin.com/in/dongkyunnam">
+         <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> https://www.linkedin.com/in/dongkyunnam
    </p>
    
    ---
