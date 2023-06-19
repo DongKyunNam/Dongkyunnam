@@ -36,8 +36,6 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
    <img alt="Avid" width="40px" src="https://thefinishline.pro/wp-content/uploads/2021/01/AVID-MEDIA-COMPOSER-LOGO-1404x1404.png" />&nbsp
    <img alt="GitHub" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp
 </p> 
-<br />
-
      
 #
 
