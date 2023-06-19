@@ -64,7 +64,7 @@ Data analysis project utilizing a Yelp dataset consisting of six million rows. T
    </p>   
 </details>
 
-details>
+<details>
 <summary><h3>Bikeshare Data Analysis</h3></summary>
 <img alt="wind" width="400px" src="https://i.imgur.com/x9ouMWz.jpg" /><img alt="dashboard2" width="400px" src="https://i.imgur.com/v9qo0fE.png" /><br>      
 Divvy Bikes bike sharing data set from 2016 to 2019 in Chicago. The primary focus was to explore the differences in weekday and weekend service usage. Leveraging PostgreSQL, I efficiently managed and analysed the dataset to extract meaningful insights.
