@@ -2,7 +2,11 @@
 
 **`Data Analyst`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I am a collaborative and creative person who thrives in fast-paced environments.
+Drawing from my experience in film and television and hospitality, I bring a unique perspective to problem solving and teamwork. 
+Leveraging data-driven insights to inform and drive successful outcomes.
+My ability to think outside the box and adapt to new challenges allows me to deliver innovative
+solutions that make a real impact. I’m looking for a role where I can utilize my skills in the field.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
