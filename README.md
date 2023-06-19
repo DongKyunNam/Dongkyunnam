@@ -21,7 +21,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
    <img align="left" alt="Postgresql" width="40px" style="padding-right:5px;" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
    <img align="left" alt="Tableau" width="40px" style="padding-right:5px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
    <img align="left" alt="Powerbi" width="40px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" />
-   <img align="left" alt="Tableau" width="40px" style="padding-right:5px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+   <img align="left" alt="Excel" width="40px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
    <img align="left" alt="Tableau" width="40px" style="padding-right:5px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
    <img align="left" alt="Tableau" width="40px" style="padding-right:5px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
    <img align="left" alt="Tableau" width="40px" style="padding-right:5px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
