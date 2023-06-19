@@ -73,6 +73,7 @@ Through this project, I demonstrated proficiency in data analysis, database mana
 <br>
    <p align="right">
    <img alt="Postgresql" width="40px"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+   <img alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
    </p>   
 </details>
 
