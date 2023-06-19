@@ -29,5 +29,5 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
    <img align="left" alt="Avid" width="40px" style="padding-right:5px;" src="https://thefinishline.pro/wp-content/uploads/2021/01/AVID-MEDIA-COMPOSER-LOGO-1404x1404.png" />
    <img align="left" alt="Tableau" width="40px" style="padding-right:5px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 </p>
-
+<br />
 #
