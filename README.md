@@ -77,3 +77,18 @@ Through this project, I demonstrated proficiency in data analysis, database mana
    </p>   
 </details>
 
+<details>
+<summary><h3>Motion Graphic promotion video</h3></summary>
+<img alt="bike" width="400px" src="https://enigmaforensics.com/wp-content/uploads/2020/08/divvy_bikes-1468524609-7087-1024x576.jpg" /><img alt="dashboard3" width="400px" src="https://i.imgur.com/6qQjPAz.png" /><br>      
+Divvy Bikes bike sharing data set from 2016 to 2019 in Chicago. The primary focus was to explore the differences in weekday and weekend service usage. Leveraging PostgreSQL, I efficiently managed and analysed the dataset to extract meaningful insights.
+To effectively communicate the findings, I developed interactive visualizations. These visualizations provided clear and engaging representations of the data, allowing stakeholders to easily understand the patterns and trends in bike sharing usage between weekdays and weekends.
+Through this project, I demonstrated proficiency in data analysis, database management with PostgreSQL, and the ability to present insights in a visually compelling manner. The project showcased my skills in transforming raw data into valuable information to inform decision-making processes.
+<a href="https://youtu.be/C9eWM_amSF8">
+         <img alt="youtube link" title="YouTube Tofu-Purin Live2D Vtuber Debut" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+<br>
+   <p align="right">
+   <img alt="Postgresql" width="40px"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+   <img alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
+   </p>   
+</details>
+
