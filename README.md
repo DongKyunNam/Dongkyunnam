@@ -57,6 +57,6 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
    <img alt="Tableau" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /> 
    <img alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" /> 
-   <br>
+  </details>
 
 
