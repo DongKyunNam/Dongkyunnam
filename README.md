@@ -43,9 +43,9 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 <img alt="yelp" width="400px" src="https://i.imgur.com/tEcXR3m.png" /><img alt="dashboard" width="400px" src="https://i.imgur.com/xdddL5J.png" />     
 <b>Capstone Yelp Data Analysis Data</b><br> 
 Data analysis project utilizing a Yelp dataset consisting of six million rows. The project focused on exploring restaurant businesses and making recommendations for opening a new establishment. Using sentiment analysis techniques to evaluate customer feedback and developed a predictive model to classify feedback as either negative, positive, or neutral. This project not only demonstrated my proficiency in data analysis and machine learning, but also highlighted my ability to derive valuable insights from large datasets to inform business decisions. Leveraged my skills in Python for data manipulation and analysis, Excel for organizing and preprocessing data, and Tableau for creating impactful visualizations to effectively communicate my findings. <br>
-<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> &nbsp
-<img alt="Tableau" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /> &nbsp
-<img alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" /> &nbsp
+<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Tableau" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+<img alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <br>
 <img alt="wind" width="400px" src="https://i.imgur.com/x9ouMWz.jpg" /><img alt="dashboard2" width="400px" src="https://i.imgur.com/v9qo0fE.png" />     
 <b>Group Capstone U.S Wind Turbine Market Analysis</b><br> 
