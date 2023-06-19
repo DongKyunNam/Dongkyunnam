@@ -31,9 +31,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
    <img align="left" alt="GitHub" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p> 
 <br />
-<p align="left">
    
 #
 
 ### 📄 Projects
-</p>
