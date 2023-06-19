@@ -79,17 +79,15 @@ Through this project, I demonstrated proficiency in data analysis, database mana
 
 <details>
 <summary><h3>Motion Graphic promotion video</h3></summary>
-<img alt="bike" width="400px" src="https://enigmaforensics.com/wp-content/uploads/2020/08/divvy_bikes-1468524609-7087-1024x576.jpg" /><img alt="dashboard3" width="400px" src="https://i.imgur.com/6qQjPAz.png" /><br>      
-Divvy Bikes bike sharing data set from 2016 to 2019 in Chicago. The primary focus was to explore the differences in weekday and weekend service usage. Leveraging PostgreSQL, I efficiently managed and analysed the dataset to extract meaningful insights.
-To effectively communicate the findings, I developed interactive visualizations. These visualizations provided clear and engaging representations of the data, allowing stakeholders to easily understand the patterns and trends in bike sharing usage between weekdays and weekends.
-Through this project, I demonstrated proficiency in data analysis, database management with PostgreSQL, and the ability to present insights in a visually compelling manner. The project showcased my skills in transforming raw data into valuable information to inform decision-making processes.<br>
+<img alt="bike" width="400px" src="https://i.imgur.com/I72xMUn.jpg" />   
+Created captivating motion graphics to serve as promotional content for client, effectively meeting their specific needs. Using my expertise in motion graphics software, I brought their ideas to life and crafted visually appealing animations that engaged their target audiences.<br>
 <b>Click below to watch</b><br>   
 <a href="https://youtu.be/C9eWM_amSF8">
          <img alt="youtube link" title="YouTube Tofu-Purin Live2D Vtuber Debut" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 <br>
    <p align="right">
-   <img alt="Postgresql" width="40px"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-   <img alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
+   <img alt="AE" width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" />
+   <img alt="Audition" width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1051px-Adobe_Audition_CC_icon_%282020%29.svg.png" />
    </p>   
 </details>
 
