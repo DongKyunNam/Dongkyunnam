@@ -84,7 +84,7 @@ Divvy Bikes bike sharing data set from 2016 to 2019 in Chicago. The primary focu
 To effectively communicate the findings, I developed interactive visualizations. These visualizations provided clear and engaging representations of the data, allowing stakeholders to easily understand the patterns and trends in bike sharing usage between weekdays and weekends.
 Through this project, I demonstrated proficiency in data analysis, database management with PostgreSQL, and the ability to present insights in a visually compelling manner. The project showcased my skills in transforming raw data into valuable information to inform decision-making processes.
 <a href="https://youtu.be/C9eWM_amSF8">
-         <img alt="youtube link" title="YouTube Tofu-Purin Live2D Vtuber Debut" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube link" title="YouTube Tofu-Purin Live2D Vtuber Debut" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 <br>
    <p align="right">
    <img alt="Postgresql" width="40px"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
