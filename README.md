@@ -79,7 +79,7 @@ Through this project, I demonstrated proficiency in data analysis, database mana
 
 <details>
 <summary><h3>Motion Graphic teaser video</h3></summary>
-<img alt="tofu" width="400px" src="https://imgur.com/fqqEBQD" /><img alt="tofu" width="400px" src="https://i.imgur.com/bp94NjH.png" /><br>   
+<img alt="tsuki" width="400px" src="https://i.imgur.com/fqqEBQD.png" /><img alt="tofu" width="400px" src="https://i.imgur.com/bp94NjH.png" /><br>   
 Created captivating motion graphics to serve as promotional content for client, effectively meeting their specific needs. Using my expertise in motion graphics software, I brought their ideas to life and crafted visually appealing animations that engaged their target audiences.<br>
 <b>Click below to watch</b><br> 
    <a href="https://youtu.be/G1mqoX-SWp8">
