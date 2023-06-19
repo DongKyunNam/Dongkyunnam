@@ -18,6 +18,7 @@ solutions that make a real impact. I’m looking for a role where I can utilize 
 
 <p align="left">
    <img src="https://skillicons.dev/icons?i=py,postgres,pr,ae,ps,au,github," />
+   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 </p>
 
 #
