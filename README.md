@@ -92,5 +92,6 @@ Created captivating motion graphics to serve as promotional content for client, 
    <img alt="AE" width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" />
    <img alt="Audition" width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1051px-Adobe_Audition_CC_icon_%282020%29.svg.png" />
    </p>   
+   
 </details>
 
